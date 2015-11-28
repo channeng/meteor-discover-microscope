@@ -1,1 +1,1 @@
-Meteor.subscribe('posts');
+// removed Meteor.subscribe('posts'); - which is now handled by router.js
